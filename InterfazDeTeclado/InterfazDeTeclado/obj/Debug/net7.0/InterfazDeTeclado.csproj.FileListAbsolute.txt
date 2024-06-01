@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Programming\C#\InterfazTeclado\InterfazDeTeclado\InterfazDeTeclado\bin\Debug\net7.0\InterfazDeTeclado.exe
+C:\Users\User\Documents\Programming\C#\InterfazTeclado\InterfazDeTeclado\InterfazDeTeclado\bin\Debug\net7.0\InterfazDeTeclado.deps.json
+C:\Users\User\Documents\Programming\C#\InterfazTeclado\InterfazDeTeclado\InterfazDeTeclado\bin\Debug\net7.0\InterfazDeTeclado.runtimeconfig.json
+C:\Users\User\Documents\Programming\C#\InterfazTeclado\InterfazDeTeclado\InterfazDeTeclado\bin\Debug\net7.0\InterfazDeTeclado.dll
+C:\Users\User\Documents\Programming\C#\InterfazTeclado\InterfazDeTeclado\InterfazDeTeclado\bin\Debug\net7.0\InterfazDeTeclado.pdb
+C:\Users\User\Documents\Programming\C#\InterfazTeclado\InterfazDeTeclado\InterfazDeTeclado\obj\Debug\net7.0\InterfazDeTeclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Programming\C#\InterfazTeclado\InterfazDeTeclado\InterfazDeTeclado\obj\Debug\net7.0\InterfazDeTeclado.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Programming\C#\InterfazTeclado\InterfazDeTeclado\InterfazDeTeclado\obj\Debug\net7.0\InterfazDeTeclado.AssemblyInfo.cs
+C:\Users\User\Documents\Programming\C#\InterfazTeclado\InterfazDeTeclado\InterfazDeTeclado\obj\Debug\net7.0\InterfazDeTeclado.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Programming\C#\InterfazTeclado\InterfazDeTeclado\InterfazDeTeclado\obj\Debug\net7.0\InterfazDeTeclado.dll
+C:\Users\User\Documents\Programming\C#\InterfazTeclado\InterfazDeTeclado\InterfazDeTeclado\obj\Debug\net7.0\refint\InterfazDeTeclado.dll
+C:\Users\User\Documents\Programming\C#\InterfazTeclado\InterfazDeTeclado\InterfazDeTeclado\obj\Debug\net7.0\InterfazDeTeclado.pdb
+C:\Users\User\Documents\Programming\C#\InterfazTeclado\InterfazDeTeclado\InterfazDeTeclado\obj\Debug\net7.0\InterfazDeTeclado.genruntimeconfig.cache
+C:\Users\User\Documents\Programming\C#\InterfazTeclado\InterfazDeTeclado\InterfazDeTeclado\obj\Debug\net7.0\ref\InterfazDeTeclado.dll
