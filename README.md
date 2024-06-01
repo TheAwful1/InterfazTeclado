@@ -8,29 +8,29 @@
 ![GitHub issues](https://img.shields.io/github/issues/your-username/InterfazDeTeclado)
 ![GitHub license](https://img.shields.io/github/license/your-username/InterfazDeTeclado)
 
-A simple yet effective console-based menu interface in C# that allows users to navigate through options using the keyboard. 🚀
+ Una interfaz simple en consola que funciona con las teclas hecho en C#. 🚀
 
 ## Table of Contents
 
-- [Description](#description)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Descripcion](#description)
+- [Caracteristicas](#features)
+- [Instalacion](#installation)
+- [Uso](#usage)
+- [Contribuyen](#contributing)
+- [Licencia](#license)
+- [Contacto](#contact)
 
 ## Description
 
-Interfaz De Teclado is a console application designed to provide an intuitive keyboard interface for navigating through a set of options. The current version offers a basic menu system that responds to arrow keys for selection and the enter key for action confirmation.
+
+Interfaz De Teclado es una aplicacion creada como un ejercicio.
 
 ## Features
 
-- ⬆️ Navigate options using Up and Down arrow keys.
-- ✅ Select an option using the Enter key.
-- 🎨 Visual feedback with highlighted selections.
-- 🔄 Continuous looping until an exit option is selected.
-
+- ⬆️ Navega por las opciones usando las teclas de flecha arriba y abajo.
+- ✅ Seleccione una opción usando la tecla Enter.
+- 🎨 Comentarios visuales con selecciones resaltadas.
+- 🔄 Bucle continuo hasta que se selecciona una opción de salida.
 ## Installation
 
 To get a local copy up and running follow these simple steps:
